@@ -1,11 +1,34 @@
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=VictorVolkov7&style=flat-square&color=blueviolet" alt=""/>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://t.me/Safyro0">
-    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+# Hi 👋
+
+### About
+
+- 💻 I am a begginer Python Developer
+
+### Skills 😎
+
+- Languages: _Python_
+- Frameworks: _Django_ 
+- Storages: _PostgreSQL_
+- Messaging: _Redis_
+- Conatainering: _Docker_
+
+### Contacts 📬
+
+- E-mail: [vektorn1212@gmail.com](mailto:vektorn1212@gmail.com)
+- Telegram: [@Safyro0](https://t.me/Safyro0)
+
+### Statistics
+
+<p>
+  <img 
+       align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorVolkov7&show_icons=true&locale=en&theme=transparent" 
+       alt="VictorVolkov7" />
+</p>
+
+<p>&nbsp;
+  <img 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=VictorVolkov7&show_icons=true&locale=en&theme=transparent" 
+       alt="VictorVolkov7" />
+</p>

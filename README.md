@@ -2,7 +2,7 @@
 
 ### About
 
-- 💻 I am a begginer Python Developer
+- 💻 I am a Python Developer
 
 ### Skills 😎
 
